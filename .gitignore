@@ -1,0 +1,9 @@
+.venv/
+uploads/
+work/
+out/
+voices/
+*.log
+.hallmark/
+.DS_Store
+__pycache__/
